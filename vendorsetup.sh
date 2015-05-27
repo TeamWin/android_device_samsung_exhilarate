@@ -1,1 +1,3 @@
-add_lunch_combo cm_exhilarate-eng
+add_lunch_combo candy5_exhilarate-user
+add_lunch_combo candy5_exhilarate-userdebug
+add_lunch_combo candy5_exhilarate-eng
